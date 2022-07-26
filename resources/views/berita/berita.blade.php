@@ -1,0 +1,2 @@
+ini berita
+{{ $judul }}
